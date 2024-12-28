@@ -58,7 +58,7 @@ Compared to the existing **ProbTC** software, these implementations offer:
 
 ## Repository Contents
 
-- **[`SRR_PTC.py`](./SRR_PTC.py) and [`RRR_PTC.py`](./RRR_PTC.py):** Python implementations of the Reduction-Recovery Algorithm.
+- **[`SRR-PTC.py`](./SRR-PTC.py) and [`RRR-PTC.py`](./RRR-PTC.py):** Python implementations of the Reduction-Recovery Algorithm.
 - **Master's Thesis (PDF):** A comprehensive reference with mathematical derivations, pseudocode, and a detailed comparison of algorithm performance.
 
 For an in-depth understanding of the algorithms, their theoretical foundations, and performance evaluations, readers are encouraged to refer to the **Master's Thesis** included in this repository.
